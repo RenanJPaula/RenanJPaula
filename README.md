@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**RenanJPaula/RenanJPaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RenanJPaula&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanJPaula&layout=compact&theme=material-palenight" />
