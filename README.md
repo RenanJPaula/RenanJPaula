@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+The best time of my day is when I'm programming with my friends :heart:
+
 <!--
 
 Here are some ideas to get you started:
