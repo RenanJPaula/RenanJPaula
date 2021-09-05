@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanJPaula&layout=compact&theme=material-palenight" />
+
+If I have seen further it is by standing on the shoulders of Giants. [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton).
